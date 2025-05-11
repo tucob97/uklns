@@ -1,0 +1,85 @@
+{
+  "c": {
+
+    "libraries": [
+	
+	  {
+        "hashname": "cliblist",
+        "url": "https://github.com/clibs/list.git",
+        "description": "C doubly linked list",
+        "internal_tags": ["linked list","list", "data structure"]
+      },
+	  
+	  {
+        "hashname": "mklist",
+        "url": "https://github.com/mkirchner/linked-list-good-taste.git",
+        "description": "Linus Torvalds' linked list argument for good taste, explained",
+        "internal_tags": ["linked list","list", "data structure"]
+      },
+	  
+      {
+        "hashname": "tidbtree",
+        "url": "https://github.com/tidwall/btree.c.git",
+        "description": "A fast B-tree implementation in C",
+        "internal_tags": ["btree", "data structure"]
+      },
+	  
+	  {
+        "hashname": "antbtree",
+        "url": "https://github.com/antirez/otree.git",
+        "description": "a simple btree implementation with automatic space reclaiming",
+        "internal_tags": ["B-tree","btree", "data structure"]
+      },
+
+      {
+        "hashname": "habbptree",
+        "url": "https://github.com/habedi/bptree.git",
+        "description": "B+tree implementation in C",
+        "internal_tags": ["B+tree","b+tree", "data structure"]
+      },
+	  
+	  {
+        "hashname": "begebptree",
+        "url": "https://github.com/begeekmyfriend/bplustree",
+        "description": "A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage",
+        "internal_tags": ["B+tree","bptree","b+tree", "data structure"]
+      },
+	  
+	  {
+        "hashname": "antkilo",
+        "url": "https://github.com/antirez/kilo.git",
+        "description": "A text editor in less than 1000 LOC.",
+        "internal_tags": ["text","editor", "kilo"]
+      },
+	  
+	  {
+        "hashname": "zeptemacs",
+        "url": "https://github.com/hughbarney/zepto.git",
+        "description": "Smallest usable editor in less than 1000 lines of C",
+        "internal_tags": ["text","editor", "emacs"]
+      },
+	  
+	  {
+        "hashname": "pEmacs",
+        "url": "https://github.com/hughbarney/pEmacs.git",
+        "description": "pEmacs is a small footprint Emacs",
+        "internal_tags": ["text","editor", "emacs"]
+      }
+      
+    ]
+  },
+  
+  
+  "python": {
+
+    "libraries": [
+      {
+        "hashname": "picogpt",
+        "url": "https://github.com/jaymody/picoGPT.git",
+        "description": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+        "internal_tags": ["gpt-2", "LLm", "Nlp"]
+      }
+    ]
+  }
+}
+
