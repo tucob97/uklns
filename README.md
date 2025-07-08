@@ -31,15 +31,15 @@ This makes UKLns ideal for learning, quick prototyping, or anytime you want to p
 
 | Feature                      | Description                                                    |
 | ---------------------------- | -------------------------------------------------------------- |
-| 🔍 Vector embedding search   | Find repos by natural‑language description                     |
-| 💬 RAG chat interface        | Ask questions about any indexed project                        |
-| 📄 Inline README display     | Render a repo’s README in your terminal                        |
-| ⚙️ Zero‑clone retrieval      | Grab specific files or code snippets without `git clone`       |
-| 🤖 Local model orchestration | Runs models on your machine; Downloads directly from Hugging Face if missing |
+|  Vector embedding search   | Find repos by natural‑language description                     |
+|  RAG chat interface        | Ask questions about any indexed project                        |
+|  Inline README display     | Render a repo’s README in your terminal                        |
+|  Zero‑clone retrieval      | Grab specific files or code snippets without `git clone`       |
+|  Local model orchestration | Runs models on your machine; Downloads directly from Hugging Face if missing |
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone this repo**:
 
@@ -67,7 +67,7 @@ This makes UKLns ideal for learning, quick prototyping, or anytime you want to p
 
 ---
 
-## 💡 Quick Start
+## Quick Start
 
 ```bash
 # Simply launch the program
@@ -83,7 +83,7 @@ UKLns will automatically download any missing embedding or language model from H
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 See `requirements.txt` for full dependency list. Key packages include:
 
@@ -93,13 +93,13 @@ See `requirements.txt` for full dependency list. Key packages include:
 
 ---
 
-## 📄 License
+## License
 
 This project is MIT‑licensed © Edoardo Failla. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to open issues or submit PRs. Share new small‑code repos to include in `repos.json` or improve the RAG logic!
 
